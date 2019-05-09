@@ -1,4 +1,4 @@
-[![Build Status](http://build.thelinuxthing.com/buildStatus/icon?job=thelinuxthing-ansible&build=1)](https://build.thelinuxthing.com/job/thelinuxthing-ansible/1/)
+[![Build Status](http://build.thelinuxthing.com/buildStatus/icon?job=thelinuxthing-docker&build=1)](https://build.thelinuxthing.com/job/thelinuxthing-docker/1/)
 
 This vagrant file deploys 3 machines
 -
